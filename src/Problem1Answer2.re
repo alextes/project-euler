@@ -15,4 +15,4 @@ for (num in 1 to 999) {
     }
 };
 
-print_int(sum^)
+Js.log(sum^)
